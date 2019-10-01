@@ -1,7 +1,7 @@
 # Simon
 Simon created in Tumult Hype with JavaScript for DGIM course at Saint Paul College. 
 <hr>
-<li>10.01.2019</li>
+10.01.2019
   <ul>
     <li>Minor bug fixes</li>
     <ul>
